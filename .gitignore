@@ -5,3 +5,7 @@ venv/
 # Environment variables
 .env
 *.env
+__pycache__/
+rag_chroma_db/
+*.pyc
+.DS_Store
